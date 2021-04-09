@@ -1,0 +1,10 @@
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="input_your_location">Введите ваш город</string>
+
+    <string name="get_weather">Узнать погоду</string>
+
+    <string name="weather">Погода</string>
+    <string name="loading">Загрузка…</string>
+
+</resources>

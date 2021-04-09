@@ -1,2 +1,3 @@
+include ':weatherlib'
 include ':app'
 rootProject.name = "weathersdk"
